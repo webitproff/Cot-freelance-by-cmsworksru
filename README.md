@@ -5,7 +5,17 @@
 Copyright 2012 - 2016 CMSWorks Team
 Сайт по сборке: https://Cotonti.CMSWorks.ru НЕ ПОДДЕРЖИВАЕТСЯ
 
-[<a href="http://freelance-script.abuyfile.com/" target="_blank">Документация. Инструкция. Настройки. Поддержка, доработки под заказ</a>] - http://freelance-script.abuyfile.com
+##################
+##ПОДДЕРЖКА##
+
+[<a href="http://freelance-script.abuyfile.com/">Документация. Инструкция. Настройки. Поддержка, доработки под заказ</a>] - http://freelance-script.abuyfile.com
+
+— Email: webitproff@gmail.com
+— Skype: webitproff
+— Telegram: webitproff
+
+##ПОДДЕРЖКА##
+####################
 
 ##Подготовка к установке##
 
