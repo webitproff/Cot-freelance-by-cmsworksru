@@ -4,7 +4,7 @@
 
 Copyright 2012 - 2016 CMSWorks Team
 
-Сайт по сборке: https://Cotonti.CMSWorks.ru
+Сайт по сборке: https://Cotonti.CMSWorks.ru НЕ ПОДДЕРЖИВАЕТСЯ
 
 ##Подготовка к установке##
 
